@@ -1,0 +1,14 @@
+body {background-color: black;}
+div {
+    color: white;
+    font-style: italic;
+    font-size: 22px;
+}
+h1 {
+    color:blue;
+    text-align: center;
+}
+a:visited {color:white;
+font-style: italic;
+}
+a:link {color:white}
